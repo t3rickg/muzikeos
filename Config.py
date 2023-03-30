@@ -1,9 +1,9 @@
 import os
 
 class Config(object):
-    API_ID = int(os.environ.get("API_ID", "6213538"))
-    API_HASH = os.environ.get("API_HASH", "8ce3522bd21cc937eee4c68813d501d5")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    API_ID = int(os.environ.get("API_ID", "29188781"))
+    API_HASH = os.environ.get("API_HASH", "e16437dd366d979be2a3f9a0c0d2d7f4")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN",6216404466:AAF73McU8m7eJJqbV4MYckWE9s9-gdDHp9g)
     STRING_SESSION = os.environ.get("STRING_SESSION", None)
     MANAGEMENT_MODE = os.environ.get("MANAGEMENT_MODE", None)
     HEROKU_MODE = os.environ.get("HEROKU_MODE", None)
